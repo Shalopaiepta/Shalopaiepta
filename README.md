@@ -49,7 +49,7 @@
 - Классификатор фаз упражнений на XGBoost + эталонно-ориентированный анализ ошибок техники
 - Модульная архитектура, конечный автомат сессии, автогенерация отчёта
 
-🔗 **[[ссылка на репозиторий]](https://github.com/sushkomihail/financial-assistant.git)](https://github.com/Shalopaiepta/ML-fisical-exercise-Analysator.git)**
+🔗 **[[ссылка на репозиторий]](https://github.com/Shalopaiepta/ML-fisical-exercise-Analysator.git)**
 
 ---
 
